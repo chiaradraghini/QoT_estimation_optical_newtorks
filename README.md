@@ -9,3 +9,4 @@ Additionally, the project explored the technique of Transfer Learning to harness
 
 For a comprehensive understanding, a detailed account of the project's pipeline, along with its results, can be found in the "Presentation.pptx" file, where the methodologies and outcomes are thoroughly elucidated. 
 
+This project was a collaboration with my colleague Destiny Mora.
