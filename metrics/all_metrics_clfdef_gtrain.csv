@@ -1,0 +1,2 @@
+,Accuracy,Precision,Recall,FScore,Under Allocations,Over Allocations,Correct Allocations,Miss Rate,Cross Validation
+Clf_Def_g,0.9790575916230366,0.9852070399737743,0.9844842389304551,0.9848385622386401,12,16,1309,0.020942408376963352,0.9349264911398066
